@@ -1,0 +1,4 @@
+﻿  DZ1.cpp
+c:\users\shakhmanaev\source\repos\dz1\dz1\dz1.cpp(73): warning C4715: LoadData_2<int>: значение возвращается не при всех путях выполнения
+c:\users\shakhmanaev\source\repos\dz1\dz1\dz1.cpp(61): warning C4715: LoadData_1<int>: значение возвращается не при всех путях выполнения
+  DZ1.vcxproj -> C:\Users\shakhmanaev\source\repos\DZ1\Debug\DZ1.exe

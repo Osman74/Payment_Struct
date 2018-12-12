@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------------------------------------------------
+|NameCompany	KindOfWork	  UnitOfMeasurement	Cost			Date		Workload|
+---------------------------------------------------------------------------------------------------------------------------------------------
+Asics                          Prodavec                             Day                              3                                      September                       5
+Adidas                          Prodavec                             DAY                              3                                      October                            4
+Reebok                          Prodavec                             DAY                              3                                      September                       4
+Puma                          Prodavec                             DAY                              1                                      November                        3
+Kipsta                          Consultant                             MONTH                              2                                      February                       1
+Umbro                          Security                             DAY                              4                                      Semptember                       5
+Umbro                          Security                             DAY                              4                                      Semptember                       5
+Umbro                          Security                             DAY                              4                                      Semptember                       5
+---------------------------------------------------------------------------------------------------------------------------------------------
